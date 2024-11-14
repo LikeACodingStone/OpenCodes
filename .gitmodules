@@ -1,3 +1,6 @@
 [submodule "Python"]
 	path = Python
 	url = git@github.com:LikeACodingStone/Python.git
+[submodule "CCPlus"]
+	path = CCPlus
+	url = git@github.com:LikeACodingStone/CCPlus.git
